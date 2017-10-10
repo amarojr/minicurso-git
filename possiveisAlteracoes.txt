@@ -1,3 +1,5 @@
--Não Adicionar dinossauros
+-Adicionar dinossauros
 -Zumbis
 -Robos gigantes
+-arma laser
+-Naves espaciais
