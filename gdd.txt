@@ -1,3 +1,7 @@
 Nome do jogo: Git Gud
 Plataforma: PC, Android
 Gênero: RPG
+Multiplayer PvP
+Multiplayer PvE
+Minigames
+Microtransações
